@@ -23,7 +23,7 @@ const productData = [
       "brand": "Apple",
       "category": "trending",
       "for": "elderly",
-      "images": "Images/santa-ring.jpg"
+      "images": "Images/gift2.jpg"
     },
     {
       "id": 3,
@@ -36,7 +36,7 @@ const productData = [
       "brand": "Apple",
       "category": "trending",
       "for": "elderly",
-      "images": "Images/santa-ring.jpg"
+      "images": "Images/gift4.jpg"
     },
     {
       "id": 4,
@@ -49,7 +49,7 @@ const productData = [
       "brand": "Apple",
       "for": "elderly",
       "category": "trending",
-      "images": "Images/santa-ring.jpg"
+      "images": "Images/gift5.jpg"
     },
     {
       "id": 5,
@@ -62,7 +62,7 @@ const productData = [
       "brand": "Apple",
       "for": "women",
       "category": "trending",
-      "images": "Images/santa-ring.jpg"
+      "images": "Images/gift6.jpg"
     },
     {
       "id": 6,
@@ -75,7 +75,7 @@ const productData = [
       "brand": "Apple",
       "category": "trending",
       "for": "men",
-      "images": "Images/santa-ring.jpg"
+      "images": "Images/gift7.jpg"
     },
     {
       "id": 7,
@@ -101,7 +101,7 @@ const productData = [
       "brand": "Apple",
       "category": "trending",
       "for": "men",
-      "images": "Images/santa-ring.jpg"
+      "images": "Images/gift2.jpg"
     },
     {
       "id": 9,
@@ -114,7 +114,7 @@ const productData = [
       "brand": "Apple",
       "category": "trending",
       "for": "friends",
-      "images": "Images/santa-ring.jpg"
+      "images": "Images/gift5.jpg"
     },
     {
       "id": 10,
@@ -127,7 +127,7 @@ const productData = [
       "brand": "Apple",
       "category": "trending",
       "for": "friends",
-      "images": "Images/santa-ring.jpg"
+      "images": "Images/gift7.jpg"
     },
     {
       "id": 11,
@@ -153,7 +153,7 @@ const productData = [
       "brand": "Apple",
       "category": "lifestyle",
       "for": "friends",
-      "images": "Images/santa-ring.jpg"
+      "images": "Images/gift4.jpg"
     },
     {
       "id": 13,
