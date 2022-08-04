@@ -517,7 +517,7 @@ const productData = [
       "brand": "Apple",
       "for": "friends",
       "category": "electronics",
-      "images": "Images/santa-ring.jpg"
+      "images": "Images/gift4.jpg"
     },
     {
       "id": 1,
@@ -530,7 +530,7 @@ const productData = [
       "brand": "Apple",
       "for": "friends",
       "category": "electronics",
-      "images": "Images/santa-ring.jpg"
+      "images": "Images/gift6.jpg"
     },
     {
       "id": 1,
@@ -556,7 +556,7 @@ const productData = [
       "brand": "Apple",
       "category": "appliances",
       "for": "friends",
-      "images": "Images/santa-ring.jpg"
+      "images": "Images/gift7.jpg"
     },
     {
       "id": 1,
@@ -569,7 +569,7 @@ const productData = [
       "brand": "Apple",
       "for": "women",
       "category": "appliances",
-      "images": "Images/santa-ring.jpg"
+      "images": "Images/gift6.jpg"
     },
     {
       "id": 1,
